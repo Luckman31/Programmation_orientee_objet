@@ -1,3 +1,6 @@
 [submodule "ILU3-POO"]
 	path = ILU3-POO
 	url = https://github.com/Luckman31/TP-ILU3-RE-POO.git
+[submodule "ILU2-TP4-POO"]
+	path = ILU2-TP4-POO
+	url = https://github.com/Luckman31/ILU2-POO-TP4.git
