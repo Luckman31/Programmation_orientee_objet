@@ -10,3 +10,6 @@
 [submodule "ILU2-TP1-POO"]
 	path = ILU2-TP1-POO
 	url = https://github.com/Luckman31/ILU2-POO-TP1.git
+[submodule "ILU1-POO"]
+	path = ILU1-POO
+	url = https://github.com/Luckman31/LesGaulois.git
